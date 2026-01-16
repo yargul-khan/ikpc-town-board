@@ -64,9 +64,6 @@ Open http://localhost:8000 in your browser
 
 **Note:** You need a local server to avoid CORS errors. Can't just open `index.html` directly.
 
-## 🤝 Contributing
-
-Want to improve the site? See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## 📁 Project Structure
 
